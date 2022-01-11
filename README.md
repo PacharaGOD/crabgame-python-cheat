@@ -3,9 +3,9 @@
 
 * run the install.bat to download pymem and then run any of the python scripts to use
 
-*** Hi so I want to share this crabgame python cheat for you guys 
+***Hi so I want to share this crabgame python cheat for you guys 
 im not actually made these py scripts but I want to share it
-or anyone who cant use it or have a problem you can create new issue to ask me or anyone ***
+or anyone who cant use it or have a problem you can create new issue to ask me or anyone***
  
  ***i'm not responsible if you use it and get ban***
  
